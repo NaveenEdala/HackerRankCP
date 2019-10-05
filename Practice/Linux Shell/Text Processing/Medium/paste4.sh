@@ -1,0 +1,1 @@
+cat | paste -d$'\t' - - -
