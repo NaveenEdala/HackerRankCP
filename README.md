@@ -5,4 +5,5 @@ https://www.hackerrank.com/edala_naveen
 ### Python: Silver badge, 4 stars.
 ### SQL: Bronze badge, 2 stars.
 ### Linux Shell: Full completion.
-### Java: Bronze badge, 1 star
+### Java: Bronze badge, 1 star.
+### Security: Full completion.
