@@ -7,3 +7,4 @@ https://www.hackerrank.com/edala_naveen
 ### Linux Shell: Full completion.
 ### Java: Bronze badge, 1 star.
 ### Security: Full completion.
+### 30 Days of Code: Bronze badge, 1 star.
